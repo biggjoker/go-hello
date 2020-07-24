@@ -1,11 +1,12 @@
 package main
 
 import "fmt"
+import "github.com/google/uuid"
 
 func main()  {
 	Hello()
 }
 
 func Hello()  {
-	fmt.Println("1")
+	fmt.Println( uuid.New())
 }
