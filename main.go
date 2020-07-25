@@ -10,3 +10,7 @@ func main()  {
 func Hello()  {
 	fmt.Println( uuid.New())
 }
+
+func Hello2()  {
+	fmt.Println("test")
+}
