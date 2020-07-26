@@ -6,6 +6,7 @@ import "github.com/google/uuid"
 func main()  {
 	Hello()
 	Hello2()
+	Hello3()
 }
 
 func Hello()  {
