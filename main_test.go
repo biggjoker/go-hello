@@ -9,3 +9,11 @@ func TestHelloWorld(t *testing.T) {
 func TestHelloWorld2(t *testing.T) {
 	Hello2()
 }
+
+func TestHelloWorld3(t *testing.T) {
+	Hello3()
+}
+
+func TestMain1(t *testing.T) {
+	main()
+}
