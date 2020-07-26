@@ -14,4 +14,10 @@ func Hello()  {
 
 func Hello2()  {
 	fmt.Println("test")
+	fmt.Println("test")
+}
+
+
+func Hello3()  {
+	fmt.Println("test3")
 }
