@@ -14,7 +14,7 @@ func Hello()  {
 }
 
 func Hello2()  {
-	fmt.Println("test1")
+	fmt.Println("test1-729")
 	fmt.Println("test")
 }
 
